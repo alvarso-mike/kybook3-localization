@@ -220,7 +220,7 @@
 "menu.color"            = "颜色";
 "menu.style"            = "样式";
 "menu.listen"           = "听取";
-"menu.speak"            = "阅读";
+"menu.speak"            = "朗读";
 "menu.stop"             = "停止";
 "menu.open"             = "打开";
 "menu.back"             = "返回";
